@@ -17,6 +17,7 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 flex-direction: column;
+margin-bottom: 40px;
 width: 100%;
 max-width: 1100px;
 gap: 12px;
